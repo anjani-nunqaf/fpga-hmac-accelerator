@@ -45,7 +45,7 @@ The system consists of a host controller (Raspberry Pi) and an FPGA-based coproc
 This design utilizes several excellent open-source HDL cores. We extend our gratitude to their authors for their contributions to the open-source hardware community.
 
 * **SHA-1, SHA-256, and SHA-512 Cores:** Provided by Joachim Strombergson / Secworks Sweden AB. The original repository can be found at [github.com/secworks/sha256](https://github.com/secworks/sha256).
-* **I2C Slave to AXI-Lite Master Bridge:** Provided by [Project/Author Name]. The original repository can be found at https://opencores.org/projects/i2c.
+* **I2C Slave to AXI-Lite Master Bridge:** Provided by [Project/Author Name]. The original repository can be found at [[https://opencores.org/projects/i2c](https://github.com/alexforencich/verilog-i2c)](https://github.com/alexforencich/verilog-i2c/tree/master/rtl).
 
 ## License
 
