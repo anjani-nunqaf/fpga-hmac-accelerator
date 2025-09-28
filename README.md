@@ -38,4 +38,5 @@ The system consists of a host controller (Raspberry Pi) and an FPGA-based coproc
 │   └── sha512/
 ├── host_sw/              # Host software (Python scripts for testing)
 ├── .gitignore            # Specifies files to be ignored by Git
-└── README.md             # This file '''
+└── README.md             # This file 
+'''
